@@ -1,0 +1,88 @@
+/*escheme id: 1k51Tw0w0YINw*/
+body{
+ 
+ background-color:#FFE065;
+ color:#FFF0B5;
+ font-family: arial;
+ 
+}
+
+a{
+	color:#847640;
+}
+
+img{
+
+}
+
+img{
+/*background-image: url("../img/logo.png");*/
+
+}
+
+
+#root{
+	 position:absolute;
+	 background-color:#FFCB00;
+	 border:solid 1px yellow;
+ 
+	 width: 900px;
+	 margin-left: 10em;
+	 margin-right: auto;
+}
+
+#mensaje{
+	width:50em;
+}
+
+.form-mensaje{
+	text-align:center;
+}
+
+.entrada{
+	border: solid 2px yellow;
+	color:#534200;
+	background-color:#FFE065;
+}
+.entrada:hover{
+	background-color:#FFF0B5;
+
+}
+.submenu:hover{
+ position: absolute;
+ background-color:blue;
+ 
+}
+
+a.sub_liga:link{
+
+  text-decoration:none;
+  color:blue;
+}
+
+p.contenidosub:hover{
+background-color:#FFF0B5;
+color:#847640;
+text-decoration:underline;
+}
+
+.prototipo{
+ text-align:justify;
+ border: solid 5px yellow;
+ padding:2em;
+}
+.send-button{
+ padding:1em;
+}
+
+#imagen{
+	text-align: center;
+}
+
+#lista{
+	position: absolute;
+	left:20em;
+	top:15em;
+	font-size: 20px;	
+	color:#FFCB00;
+}
