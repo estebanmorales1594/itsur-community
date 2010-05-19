@@ -1,0 +1,14 @@
+<?php
+session_start();
+if(!($_SESSION['logueado']==1)){
+header('location:errorlogin2.html');
+echo"si entro 2";
+}
+else{
+?>
+<a href="my_profile.html">My profile</a>
+<?php
+}
+
+
+?>
